@@ -1,1 +1,1 @@
-![img](./github/animeailogo.png)
+![img](https://github.com/animeml/discord-bot/blob/main/.github/animeailogo.png?raw=true)
